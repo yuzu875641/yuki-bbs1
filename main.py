@@ -19,7 +19,7 @@ from cache import cache
 
 max_api_wait_time = 3
 max_time = 10
-url = "https://yukibbs-server.onrender.com/"
+url = "https://bbsserver.onrender.com/"
 version = "1.0"
 
 
